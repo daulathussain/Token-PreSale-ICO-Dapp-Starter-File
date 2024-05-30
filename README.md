@@ -16,7 +16,7 @@ In this comprehensive tutorial, we'll guide you through the process of building 
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/02/build-and-deploy-airdrop-crypto-token.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2024/05/Build-and-deploy-token-presale-ico-dapp.png)
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
@@ -24,7 +24,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://www.youtube.com/watch?v=rwfh8yAUY3o)
+- [Final Code Setup video](https://youtu.be/rtDfE8R9Yxk)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
