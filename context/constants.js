@@ -1,4 +1,26 @@
 const networks = {
+  sepolia: {
+    chainId: `0x${Number(11155111).toString(16)}`,
+    chainName: "Sepolia",
+    nativeCurrency: {
+      name: "SepoliaETH",
+      symbol: "SepoliaETH",
+      decimals: 18,
+    },
+    rpcUrls: ["https://sepolia.infura.io/v3/"],
+    blockExplorerUrls: ["https://sepolia.etherscan.io"],
+  },
+  polygon_amoy: {
+    chainId: `0x${Number(80002).toString(16)}`,
+    chainName: "Polygon Amoy",
+    nativeCurrency: {
+      name: "MATIC",
+      symbol: "MATIC",
+      decimals: 18,
+    },
+    rpcUrls: ["https://rpc.ankr.com/polygon_amoy"],
+    blockExplorerUrls: ["https://www.oklink.com/amoy"],
+  },
   polygon_amoy: {
     chainId: `0x${Number(80002).toString(16)}`,
     chainName: "Polygon Amoy",
