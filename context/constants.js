@@ -10,16 +10,16 @@ const networks = {
     rpcUrls: ["https://sepolia.infura.io/v3/"],
     blockExplorerUrls: ["https://sepolia.etherscan.io"],
   },
-  polygon_amoy: {
-    chainId: `0x${Number(80002).toString(16)}`,
-    chainName: "Polygon Amoy",
+  holesky: {
+    chainId: `0x${Number(17000).toString(16)}`,
+    chainName: "Holesky",
     nativeCurrency: {
-      name: "MATIC",
-      symbol: "MATIC",
+      name: "holesky",
+      symbol: "ETH",
       decimals: 18,
     },
-    rpcUrls: ["https://rpc.ankr.com/polygon_amoy"],
-    blockExplorerUrls: ["https://www.oklink.com/amoy"],
+    rpcUrls: ["https://rpc.ankr.com/eth_holesky"],
+    blockExplorerUrls: ["https://holesky.etherscan.io/"],
   },
   polygon_amoy: {
     chainId: `0x${Number(80002).toString(16)}`,
