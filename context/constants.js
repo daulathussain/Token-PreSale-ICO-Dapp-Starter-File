@@ -99,3 +99,6 @@ const networks = {
     blockExplorerUrls: ["https://bscscan.com"],
   },
 };
+
+const tokenImage =
+      "https://www.daulathussain.com/wp-content/uploads/2024/05/theblockchaincoders.jpg";
